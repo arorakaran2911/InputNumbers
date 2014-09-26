@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InputNumbers</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_fix">Enter Number</string>
+    <string name="click_me">click me</string>
+    <string name="medium_text">+91</string>
+
+</resources>
